@@ -1,0 +1,14 @@
+# Secrets: API keys and the Swiggy access token live here
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local run output
+evaluation_results.json
+
+# Editor / OS
+.vscode/
+.DS_Store
